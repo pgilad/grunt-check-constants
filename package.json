@@ -1,0 +1,45 @@
+{
+    "name": "grunt-check-constants",
+    "version": "0.1.0",
+    "description": "Find numbers that should be extracted as a declaration statement",
+    "repository": "pgilad/grunt-check-constants",
+    "author": {
+        "name": "Gilad Peleg",
+        "email": "giladp007@gmail.com",
+        "url": "http://giladpeleg.com"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "homepage": "https://github.com/pgilad/grunt-check-constants",
+    "bugs": "https://github.com/pgilad/grunt-check-constants/issues",
+    "license": "MIT",
+    "scripts": {
+        "test": "grunt"
+    },
+    "files": [
+        "LICENSE.md",
+        "tasks"
+    ],
+    "keywords": [
+        "gruntplugin",
+        "grunt",
+        "check-constants",
+        "js",
+        "code",
+        "style",
+        "validate",
+        "constants",
+        "check",
+        "checker"
+    ],
+    "dependencies": {
+        "chalk": "^0.5.1",
+        "check-constants": "^0.6.0",
+        "lodash.assign": "^2.4.1"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-cli": "^0.1.13"
+    }
+}
