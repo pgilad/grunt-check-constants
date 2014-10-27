@@ -37,4 +37,4 @@ except for `file` which is handled for you.
 
 ## License
 
-MIT © [Gilad Peleg](http://giladpeleg.com)
+MIT ©[Gilad Peleg](http://giladpeleg.com)
