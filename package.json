@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "chalk": "^0.5.1",
-    "check-constants": "^1.0.0",
+    "check-constants": "^1.0.1",
     "lodash.assign": "^2.4.1"
   },
   "devDependencies": {
