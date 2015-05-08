@@ -31,9 +31,9 @@
     "checker"
   ],
   "dependencies": {
-    "chalk": "^0.5.1",
-    "check-constants": "^1.1.0",
-    "lodash.assign": "^3.0.0"
+    "chalk": "^1.0.0",
+    "check-constants": "^1.2.0",
+    "lodash.assign": "^3.1.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
